@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jp6PC2HjW6E0A/gUIu0StIDwCwlRnPGhX8SfFTpwpoya/TK8NmPfYaY0Y4KOqTJ7WJxQHdm4tcj21FREDDmGFQ==",
+  "success": true,
+  "projectFilePath": "D:\\MicroServices\\MongoPractice\\TOTP\\VerifyTOTP\\VerifyTOTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\otp.net\\1.4.0\\otp.net.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

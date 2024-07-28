@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRnqIyJUlh1Mh3xJoWXQ66sbysjQtOoABOmxb1g+AXQRIrWNFdglcu0zT1mlYn/2HyPZdYdI2dlcJcxiXd66Rw==",
+  "success": true,
+  "projectFilePath": "D:\\MicroServices\\MongoPractice\\TOTP\\GenerateTOTP\\GenerateTOTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\otp.net\\1.4.0\\otp.net.1.4.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
